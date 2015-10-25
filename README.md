@@ -6,7 +6,7 @@ This script is Inspired by the work of monk-ee and [TheSleeper](https://github.c
 
 ## Settings
 
-### EC2 Inctance Tags
+### EC2 Instance Tags
 
 For each EC2 instance that you want to stop and start, simply add a Tag called ‘timestartstop’ with a value of two cron strings.  Example:
 
